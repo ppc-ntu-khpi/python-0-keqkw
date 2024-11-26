@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17327323)
 # Python-Exercises
 **Вправи з  Python для першого семестру з ООП**. Кілька блокнотів [Jupiter](https://jupyter.org/), які містять завдання для студентів [нашого коледжу](http://polytechnic.poltava.ua) (третій курс спеціальності "Розробка ПЗ"). Зараз тут лише три міні-практичних, але постувово репозиторій буде заповнюватись.
 
